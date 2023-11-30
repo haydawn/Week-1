@@ -1,6 +1,6 @@
 # Week-1
 
-Topics cover in Week 1
+## Topics cover in Week 1
 
 ## Description
 
