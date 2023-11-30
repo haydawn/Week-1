@@ -1,6 +1,6 @@
 # Week-1
 
-# Prework Study Guide Webpage
+Topics cover in Week 1
 
 ## Description
 
